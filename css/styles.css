@@ -13,6 +13,18 @@ header {
     text-align: center;
 }
 
+h1, h2, h3 {
+    font-family: 'Rufina', serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 400; /* You can use 300 for light, 400 for regular, or 700 for bold */
+    line-height: 1.6; /* Adjust line-height for better readability */
+    color: #333; /* Optional: Adjust text color */
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
